@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Meu nome é Daniel Nunes, sou um entusiasta da ciência e em pouco tempo serei farmacêutico pela Universidade Federal de Ouro Preto.
+Meu nome é Daniel Nunes, sou um entusiasta da ciência e em breve serei farmacêutico pela Universidade Federal de Ouro Preto.
 
-- 🧑‍🎓 Cheguei a cursar Engenharia Mecânica pela Universidade Federal do Vale do São Francisco, mas logo resolvi ir em busca da minha área.
+- 🧑‍🎓 Cheguei a cursar Engenharia Mecânica pela Universidade Federal do Vale do São Francisco onde integrei projetos de iniciação cientifica e tive pistas da minha real vocação e área.
 - 🔬 Atualmente trabalho no laboratório de toxicologia da UFOP, na avaliação da toxicidade de agrotóxicos utilizando modelo animal zebrafish.
 - 👨‍⚕️ Estou em busca de colocação no mercado de trabalho para iniciar minha carreira e poder contribuir com o desenvolvimento da farmácia. Caso tenha interesse em contratação, sinta-se livre para:
-- 📫 Me contactar através do email: contact@danielndourado.com
+- 📫 Me contactar através do email: contato@danielndourado.com
 
 
 <!--
